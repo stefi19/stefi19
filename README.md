@@ -10,14 +10,14 @@
 
 ### 🧮 Pocket Calculator on FPGA
 Real-time calculator built in **VHDL**, running on an FPGA board  
-[🔗 GitHub Repo](#https://github.com/stefi19/PocketCalculatorOnFPGABoard) — [💻 Technologies: VHDL, Digital Design, FPGA]
+[🔗#https://github.com/stefi19/PocketCalculatorOnFPGABoard]() — 💻 Technologies: VHDL, Digital Design, FPGA
 
 ### 💜 OneHeart – PoliHack 🥇 Winning Project
 Platform for **immigrant integration** through cultural and real-time support  
 
 ### 🧪 MIPS 16 bits
 A custom-built pipelined processor implemented in **VHDL**  
-[🔗 GitHub Repo](#https://github.com/stefi19/MIPS16) — VHDL · MIPS Architecture · Pipeline Stages · Hazard Management
+[🔗 #https://github.com/stefi19/MIPS16]() — 💻 Technologies: VHDL · MIPS Architecture · Pipeline Stages · Hazard Management
 
 ---
 
