@@ -10,14 +10,42 @@
 
 ### 🧮 Pocket Calculator on FPGA
 Real-time calculator built in **VHDL**, running on an FPGA board  
-[🔗#https://github.com/stefi19/PocketCalculatorOnFPGABoard]() — 💻 Technologies: VHDL, Digital Design, FPGA
+VHDL · Digital Design · FPGA
 
 ### 💜 OneHeart – PoliHack 🥇 Winning Project
 Platform for **immigrant integration** through cultural and real-time support  
+HTML · CSS · Django · JS · Python · QR · Real-Time Translation
 
-### 🧪 MIPS 16 bits
+### 🧪 Scientific Animations (JavaScript)
+Interactive visuals that explain physics concepts like **drag and friction**  
+JS (p5.js) · HTML · CSS · Data Visualization
+
+### 🧪 MIPS 16-bit Pipelined CPU
 A custom-built pipelined processor implemented in **VHDL**  
-[🔗 #https://github.com/stefi19/MIPS16]() — 💻 Technologies: VHDL · MIPS Architecture · Pipeline Stages · Hazard Management
+VHDL · MIPS Architecture · Pipeline Stages · Hazard Management
+
+### 🧠 CV Personality App – PCID Conference 2022  
+A forward-thinking recruitment tool integrating personality analysis into the hiring process.  
+🛠 **Python**, scikit-learn, pandas, smart scoring, data processing algorithms  
+📘 Featured in a peer-reviewed publication.
+
+### ⚙️ Safety First – Smart Accident Detection  
+A device that detects car crashes and automatically sends GPS coordinates to the nearest ambulance.  
+🔧 **Arduino IDE**, GPS module, microcontroller components
+
+### 🤖 Line Follower Robot – Marquard Competition  
+High-speed autonomous robot applying PID principles to follow complex track paths.  
+🔌 **Arduino IDE**, motors, sensor calibration, PID control
+
+### 🎮 Interactive Scientific Animations  
+Browser-based educational tools visualizing physics concepts like drag and friction.  
+🎨 JavaScript (**p5.js**), HTML, CSS  
+🧪 Created simulations that respond to mass, viscosity, and force inputs.
+
+### 🎭 The Trials of Harap-Alb – Educational Software  
+Multimedia application featuring 11 interactive games, 3D environments, and animated trailers based on Romanian folklore.  
+📚 C# · Alice3 · Visual Studio (WinForms)  
+📽 Featured at ICDD 2021 Conference
 
 ---
 
