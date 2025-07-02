@@ -16,10 +16,6 @@ VHDL · Digital Design · FPGA
 Platform for **immigrant integration** through cultural and real-time support  
 HTML · CSS · Django · JS · Python · QR · Real-Time Translation
 
-### 🧪 Scientific Animations (JavaScript)
-Interactive visuals that explain physics concepts like **drag and friction**  
-JS (p5.js) · HTML · CSS · Data Visualization
-
 ### 🧪 MIPS 16-bit Pipelined CPU
 A custom-built pipelined processor implemented in **VHDL**  
 VHDL · MIPS Architecture · Pipeline Stages · Hazard Management
