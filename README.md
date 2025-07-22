@@ -1,8 +1,10 @@
-# 👋 Hi there, I'm Stefi
+# 👋 Hi, I'm Stefi
 
-🎓 I'm a Computer Science student at Technical University of Cluj-Napoca, passionate about embedded systems, VHDL design, full-stack development, and everything in between.
+🎓 Third-year Computer Engineering student @ UTCN
+🔬 Undergraduate Researcher @ Imperial College | Working Student @ NTT DATA
+💻 Passionate about systems programming, software engineering, and tech-driven problem-solving
 
-🧠 I enjoy building things that blend **hardware & software**, helping others grow, and leading impactful student initiatives.
+I love building things at the intersection of code and logic, especially when they involve systems, concurrency, or embedded design. I also enjoy leading impactful student events and exploring technical challenges beyond the classroom.
 
 ---
 
@@ -45,6 +47,15 @@ Multimedia application featuring 11 interactive games, 3D environments, and anim
 
 ---
 
+## 🔬 Research
+
+### 🔐 Dynamic Attack Graphs – Imperial College London
+Working on incremental update algorithms for logic-based cybersecurity models
+🧠 Studying Datalog/Prolog semantics, implementing materialisation in Rust
+MulVAL · Logic Programming · Systems Reasoning
+
+---
+
 ## 🧰 Tech Stack
 
 ```bash
@@ -58,12 +69,12 @@ Multimedia application featuring 11 interactive games, 3D environments, and anim
 
 ## 🏆 Achievements & Roles
 
-- 🥇 **PoliHack 2024** Winner • InnovationLabs Finalist
-- 💼 SAP Basis Working Student @ NTT DATA Romania
-- 🧠 **InfoTech Coordinator** @ OSUT Cluj – organized career fairs, hackathons, tech trainings
-- 🎤 **Student Ambassador** & Council Representative @ UTCN
-- 🎮 Game Developer Intern at Cubic World
-- 🤖 Passionate about FPGA, solar tech, and competition projects (SafetyFirst, Line Follower Robot)
+- 🧠 InfoTech Coordinator – designed and led UTCN’s flagship student tech events (InfoWeek, ContestNight, InfoNight)
+- 🥇 PoliHack 2024 Winner – built a platform for community integration
+- 🧪 Undergraduate Researcher @ Imperial College – cybersecurity & logic programming
+- 💼 TechTrek @ NTT DATA – SAP admin, enterprise systems, Linux
+- 🎓 Java SmartStart Program @ GlobalLogic – mentor-led SWE training
+- 📣 Student Rep & Ambassador @ UTCN – represented 3,000+ students
 
 ---
 
