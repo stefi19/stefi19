@@ -24,29 +24,22 @@ I am especially interested in systems programming, low-level engineering, distri
 ```bash
 💼 LinkedIn: linkedin.com/in/stefania-mozacu
 ```
-## 📊 GitHub Activity
+## 🎮 Contribution Game
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=stefi19&show_icons=true&hide_border=true&hide_rank=true&commits_year=2026&theme=tokyonight&border_radius=12" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefi19&layout=compact&hide_border=true&theme=tokyonight&border_radius=12" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=stefi19&theme=tokyonight&hide_border=true&border_radius=12" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=stefi19&theme=tokyo-night&hide_border=true&radius=12" 
-    width="95%"
-  />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/stefi19/stefi19/output/pacman-contribution-graph-dark.svg"
+    >
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/stefi19/stefi19/output/pacman-contribution-graph.svg"
+    >
+    <img 
+      alt="Pac-Man contribution graph" 
+      src="https://raw.githubusercontent.com/stefi19/stefi19/output/pacman-contribution-graph.svg"
+      width="95%"
+    >
+  </picture>
 </p>
