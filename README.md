@@ -25,8 +25,8 @@ I am especially interested in systems programming, low-level engineering, distri
 💼 LinkedIn: linkedin.com/in/stefania-mozacu
 ```
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Stefi's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefi19&show_icons=true&hide_border=true)
+![Stefi's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefi19&show_icons=true&hide_border=true&hide_rank=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefi19&layout=compact&hide_border=true)
