@@ -24,9 +24,29 @@ I am especially interested in systems programming, low-level engineering, distri
 ```bash
 💼 LinkedIn: linkedin.com/in/stefania-mozacu
 ```
-
 ## 📊 GitHub Activity
 
-![Stefi's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefi19&show_icons=true&hide_border=true&hide_rank=true)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=stefi19&show_icons=true&hide_border=true&hide_rank=true&commits_year=2026&theme=tokyonight&border_radius=12" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefi19&layout=compact&hide_border=true&theme=tokyonight&border_radius=12" 
+    height="170"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefi19&layout=compact&hide_border=true)
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=stefi19&theme=tokyonight&hide_border=true&border_radius=12" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=stefi19&theme=tokyo-night&hide_border=true&radius=12" 
+    width="95%"
+  />
+</p>
